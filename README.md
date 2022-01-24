@@ -25,7 +25,11 @@ https://www.kaggle.com/c/aptos2019-blindness-detection
 #### Travail effectué :
 - recherche sur le preprocessing
 - mise en commun de nos recherches pour établir le preprocessing
-- implémentation dans le notebook Kaggle du preprocessing
+- implémentation dans le notebook Kaggle du preprocessing (partie 1/2)
 - énumération des différentes méthodes de machine learning qui seront appliquées
 - interrogation sur les données manquantes (comment les trouver et solution apportée : morphologie ? Gradient ?)
 - recherche sur le score quadratic weighted kappa et son utilité
+- réunion pour faire le plan, faire le bilan des idées
+
+#### Travail à faire :
+- implémenter le data augmentation et la fonction resize qui permet de mettre les images à la même taille (rognage/centrage)
