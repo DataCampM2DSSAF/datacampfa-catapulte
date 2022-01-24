@@ -33,3 +33,4 @@ https://www.kaggle.com/c/aptos2019-blindness-detection
 
 #### Travail à faire :
 - implémenter le data augmentation et la fonction resize qui permet de mettre les images à la même taille (rognage/centrage)
+- implémenter le filtre gris qui sera utile pour certains modèles
