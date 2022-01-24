@@ -3,7 +3,7 @@
 
 https://www.kaggle.com/c/aptos2019-blindness-detection
 
-**Our team** : Cathia Le Hasif, Paul Mazet, Etienne Gaucher
+**Notre équipe** : Cathia Le Hasif, Paul Mazet, Etienne Gaucher
 
 ### Lundi 10 janvier
 
@@ -18,3 +18,13 @@ https://www.kaggle.com/c/aptos2019-blindness-detection
 #### Travail à faire :
 - continuer la recherche sur le preprocessing
 - commencer la recherche sur les méthodes de machine learning pour le traitement d'images
+
+
+### Lundi 24 janvier
+
+#### Travail effectué :
+- recherche sur le preprocessing
+- mise en commun de nos recherches pour établir le preprocessing
+- implémentation dans le notebook Kaggle du preprocessing
+- énumération des différentes méthodes de machine learning qui seront appliquées
+- interrogation sur les données manquantes (comment les trouver et solution apportée : morphologie ? Gradient ?)
