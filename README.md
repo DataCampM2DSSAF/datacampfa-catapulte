@@ -28,3 +28,4 @@ https://www.kaggle.com/c/aptos2019-blindness-detection
 - implémentation dans le notebook Kaggle du preprocessing
 - énumération des différentes méthodes de machine learning qui seront appliquées
 - interrogation sur les données manquantes (comment les trouver et solution apportée : morphologie ? Gradient ?)
+- recherche sur le score quadratic weighted kappa et son utilité
