@@ -23,6 +23,7 @@ https://www.kaggle.com/c/aptos2019-blindness-detection
 ### Lundi 24 janvier
 
 #### Travail effectué :
+- recherche sur la rétinopathie diabétique
 - recherche sur le preprocessing
 - mise en commun de nos recherches pour établir le preprocessing
 - implémentation dans le notebook Kaggle du preprocessing (partie 1/2)
