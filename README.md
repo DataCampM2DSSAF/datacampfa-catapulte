@@ -40,3 +40,7 @@ https://www.kaggle.com/c/aptos2019-blindness-detection
 - création d'un diagramme de Gantt pour organiser le projet
 - recherche d'une méthode pour faire un "crop circle" sur les images
 - recherche d'une méthode pour transformer les images en noir et blanc
+
+### Lundi 21 février
+- suite de la recherche d'une méthode pour faire un "crop circle" sur les images
+- début de l'implémentation de la méthode
