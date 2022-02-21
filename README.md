@@ -42,5 +42,14 @@ https://www.kaggle.com/c/aptos2019-blindness-detection
 - recherche d'une méthode pour transformer les images en noir et blanc
 
 ### Lundi 21 février
-- suite de la recherche d'une méthode pour faire un "crop circle" sur les images
-- début de l'implémentation de la méthode
+Début d'implémentation des 2 baselines : 
+- Choix de la taille des données (pixels) 
+- ML : Regression logistique sur données en noir et blanc
+- DL : ResNet (50 ? moins performant ? -> le plus adapté) sur données à 3 niveaux
+Délimitation des avancées concrètes qui pourront être mises en oeuvres pour battre la baseline :
+- Redimensionnement des données : suite de la recherche d'une méthode pour faire un "crop circle" sur les images
+- Data augmentation, modèles avancés
+
+#### Travail à faire :
+- Finition des 2 baselines
+- Décisions finale sur les problèmes relatifs : garder la baseline avec ce choix de nb de pixels ? quelles avancées dans ce domaine ?
