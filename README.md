@@ -54,3 +54,8 @@ Délimitation des avancées concrètes qui pourront être mises en oeuvres pour 
 #### Travail à faire :
 - Finition des 2 baselines
 - Décisions finale sur les problèmes relatifs : garder la baseline avec ce choix de nb de pixels ? quelles avancées dans ce domaine ?
+
+### Lundi 21 février
+- réunion
+- fonction resize
+- fonction permettant d'enlever les parties non informatives d'une image (parties noires)
