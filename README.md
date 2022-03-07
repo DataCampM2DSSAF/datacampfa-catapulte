@@ -63,7 +63,7 @@ Délimitation des avancées concrètes qui pourront être mises en oeuvres pour 
 - mise au propre du notebook Kaggle
 - création de la baseline avec régression logistique
 
-Modèle de machine learning à tester :
+Modèles de machine learning à tester :
 - k-nearest neighbors (KNN)
 - random forest
 - support vector machine (SVM)
