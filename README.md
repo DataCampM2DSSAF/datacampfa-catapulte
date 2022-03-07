@@ -55,7 +55,10 @@ Délimitation des avancées concrètes qui pourront être mises en oeuvres pour 
 - Finition des 2 baselines
 - Décisions finale sur les problèmes relatifs : garder la baseline avec ce choix de nb de pixels ? quelles avancées dans ce domaine ?
 
-### Lundi 21 février
-- réunion
-- fonction resize
-- fonction permettant d'enlever les parties non informatives d'une image (parties noires)
+### Lundi 7 mars
+- bilan des travaux effectués
+- mise en place d'une stratégie pour la suite du projet
+- définition de la fonction resize
+- définition de la fonction permettant d'enlever les parties non informatives d'une image (parties noires)
+- mise au propre du notebook Kaggle
+- création de la baseline avec régression logistique
