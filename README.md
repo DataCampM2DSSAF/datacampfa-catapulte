@@ -62,3 +62,9 @@ Délimitation des avancées concrètes qui pourront être mises en oeuvres pour 
 - définition de la fonction permettant d'enlever les parties non informatives d'une image (parties noires)
 - mise au propre du notebook Kaggle
 - création de la baseline avec régression logistique
+
+Modèle de machine learning à tester :
+- k-nearest neighbors (KNN)
+- random forest
+- support vector machine (SVM)
+- linear discriminant analysis (LDA) et quadratic discriminant analysis (QDA)
