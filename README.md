@@ -73,3 +73,10 @@ Modèles de machine learning à tester :
 
 ### Mardi 15 mars
 - répartition du travail pour la journée
+- recherche sur l'ACP
+- entraînement des modèles de machine learning et résultats
+
+|          Modèle          | KNN (32) avec noir | KNN (32) sans noir | KNN (64) | LDA (32) | LDA (64) | QDA (32) | QDA (64) |
+|:------------------------:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|         Accuracy         | 0.724  |  0.708 |  0.701 | 0.656  | 0.502 | 0.532 | 0.088 |
+| Quadratic weighted Kappa |  0.583 |  0.570 |  0.567 | 0.598  | 0.464 | 0.110 | 0|
