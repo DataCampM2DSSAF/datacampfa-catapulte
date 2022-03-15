@@ -42,14 +42,14 @@ https://www.kaggle.com/c/aptos2019-blindness-detection
 - recherche d'une méthode pour transformer les images en noir et blanc
 
 ### Lundi 21 février
-Début d'implémentation des 2 baselines : 
-- Choix de la taille des données (pixels) 
-- ML : Regression logistique sur données en noir et blanc
-- DL : ResNet (50 ? moins performant ? -> le plus adapté) sur données à 3 niveaux
+Début d'implémentation des 2 baselines :
+- choix de la taille des données (pixels), réflexion sur le nombre de variables que cela induit
+- machone learning : régression logistique sur données en noir et blanc
+- deep learning : ResNet (50 ? moins performant ? -> le plus adapté) sur données à 3 niveaux
 
 Délimitation des avancées concrètes qui pourront être mises en oeuvres pour battre la baseline :
-- Redimensionnement des données : suite de la recherche d'une méthode pour faire un "crop circle" sur les images
-- Data augmentation, modèles avancés
+- redimensionnement des données : suite de la recherche d'une méthode pour faire un "crop circle" sur les images
+- rata augmentation, modèles avancés
 
 #### Travail à faire :
 - Finition des 2 baselines
@@ -62,9 +62,14 @@ Délimitation des avancées concrètes qui pourront être mises en oeuvres pour 
 - définition de la fonction permettant d'enlever les parties non informatives d'une image (parties noires)
 - mise au propre du notebook Kaggle
 - création de la baseline avec régression logistique
+- problème rencontré : la régression logistique ne fonctionne pas (probablement car trop de variables)
 
 Modèles de machine learning à tester :
 - k-nearest neighbors (KNN)
 - random forest
 - support vector machine (SVM)
 - linear discriminant analysis (LDA) et quadratic discriminant analysis (QDA)
+- naive bayes
+
+### Lundi 15 mars
+- répartition du travail pour la journée
