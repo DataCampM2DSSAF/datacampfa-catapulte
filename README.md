@@ -44,16 +44,16 @@ https://www.kaggle.com/c/aptos2019-blindness-detection
 ### Lundi 21 février
 Début d'implémentation des 2 baselines :
 - choix de la taille des données (pixels), réflexion sur le nombre de variables que cela induit
-- machone learning : régression logistique sur données en noir et blanc
+- machine learning : régression logistique sur données en noir et blanc
 - deep learning : ResNet (50 ? moins performant ? -> le plus adapté) sur données à 3 niveaux
 
 Délimitation des avancées concrètes qui pourront être mises en oeuvres pour battre la baseline :
 - redimensionnement des données : suite de la recherche d'une méthode pour faire un "crop circle" sur les images
-- rata augmentation, modèles avancés
+- data augmentation, modèles avancés
 
 #### Travail à faire :
 - Finition des 2 baselines
-- Décisions finale sur les problèmes relatifs : garder la baseline avec ce choix de nb de pixels ? quelles avancées dans ce domaine ?
+- Décisions finales sur les problèmes relatifs : garder la baseline avec ce choix de nombre de pixels ? quelles avancées dans ce domaine ?
 
 ### Lundi 7 mars
 - bilan des travaux effectués
@@ -71,5 +71,5 @@ Modèles de machine learning à tester :
 - linear discriminant analysis (LDA) et quadratic discriminant analysis (QDA)
 - naive bayes
 
-### Lundi 15 mars
+### Mardi 15 mars
 - répartition du travail pour la journée
