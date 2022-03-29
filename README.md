@@ -28,7 +28,7 @@ https://www.kaggle.com/c/aptos2019-blindness-detection
 - mise en commun de nos recherches pour établir le preprocessing
 - implémentation dans le notebook Kaggle du preprocessing (partie 1/2)
 - énumération des différentes méthodes de machine learning qui seront appliquées
-- interrogation sur les données manquantes (comment les trouver et solution apportée : morphologie ? Gradient ?)
+- interrogation sur les données manquantes (comment les trouver et solution apportée : morphologie ? gradient ?)
 - recherche sur le score quadratic weighted kappa et son utilité
 - réunion pour faire le plan, faire le bilan des idées
 
@@ -81,3 +81,5 @@ Modèles de machine learning à tester :
 |:------------------------:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |         Accuracy         | 0.724  |  0.708 |  0.701 | 0.656  | 0.502 | 0.532 | 0.088 | | |
 | Quadratic weighted Kappa |  0.583 |  0.570 |  0.567 | 0.598  | 0.464 | 0.110 | 0 | | |
+
+### Mardi 29 mars
