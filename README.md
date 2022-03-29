@@ -83,5 +83,5 @@ Modèles de machine learning à tester :
 
 |          Modèle          | KNN (32) avec partie noire | KNN (32) sans partie noire | KNN (64) avec partie noire | KNN (64) sans partie noire | KNN (128) sans partie noire |
 |:------------------------:|:-:|:-:|:-:|:-:|:-:|
-|         Accuracy         | 0.724  |  0.708 |  0.709 | 0.656  | 0.502 |
-| Quadratic weighted Kappa |  0.583 |  0.570 |  0.575 | 0.598  | 0.464 |
+|         Accuracy         | 0.724  |  0.708 |  0.709 | 0.701  |
+| Quadratic weighted Kappa |  0.583 |  0.570 |  0.575 | 0.567  |
