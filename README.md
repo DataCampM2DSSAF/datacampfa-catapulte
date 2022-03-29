@@ -79,9 +79,9 @@ Modèles de machine learning à tester :
 - entraînement des modèles de machine learning et résultats
 - recherche sur un filtre (bruitage gaussien)
 
-|          Modèle          | KNN (32) avec noir | KNN (32) sans noir | KNN (64) | LDA (32) | LDA (64) | QDA (32) | QDA (64) | Naive Bayes | SVM |
-|:------------------------:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|         Accuracy         | 0.724  |  0.708 |  0.701 | 0.656  | 0.502 | 0.532 | 0.088 | | |
-| Quadratic weighted Kappa |  0.583 |  0.570 |  0.567 | 0.598  | 0.464 | 0.110 | 0 | | |
-
 ### Mardi 29 mars
+
+|          Modèle          | KNN (32) avec partie noire | KNN (32) sans partie noire | KNN (64) avec partie noire | KNN (64) sans partie noire | KNN (128) sans partie noire |
+|:------------------------:|:-:|:-:|:-:|:-:|:-:|
+|         Accuracy         | 0.724  |  0.708 |  0.709 | 0.656  | 0.502 |
+| Quadratic weighted Kappa |  0.583 |  0.570 |  0.575 | 0.598  | 0.464 |
