@@ -95,3 +95,9 @@ Modèles de machine learning à tester :
 |:------------------------:|:-:|:-:|:-:|:-:|
 |         Accuracy         | 0.532  |  0.086 |  0.724 | 0.502  |
 | Quadratic weighted Kappa |  0.110 |  -0.019 |  0.619 | 0.463  |
+
+- mise en place d'une stratégie pour la suite du projet
+- entraînement des modèles de machine learning et résultats
+- implémentation et entraînement d'un MLP
+- implémentation d'un réseau CNN
+- écriture du rapport
