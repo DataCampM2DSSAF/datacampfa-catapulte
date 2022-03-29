@@ -70,6 +70,8 @@ Modèles de machine learning à tester :
 - support vector machines (SVM)
 - linear discriminant analysis (LDA) et quadratic discriminant analysis (QDA)
 - naive bayes
+- AdaBoost, gradient tree boosting
+- stacking
 
 ### Mardi 15 mars
 - répartition du travail pour la journée
