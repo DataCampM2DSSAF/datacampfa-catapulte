@@ -81,7 +81,17 @@ Modèles de machine learning à tester :
 
 ### Mardi 29 mars
 
-|          Modèle          | KNN (32) avec partie noire | KNN (32) sans partie noire | KNN (64) avec partie noire | KNN (64) sans partie noire | KNN (128) sans partie noire |
-|:------------------------:|:-:|:-:|:-:|:-:|:-:|
+|          Modèle          | KNN (32) avec partie noire | KNN (32) sans partie noire | KNN (64) avec partie noire | KNN (64) sans partie noire |
+|:------------------------:|:-:|:-:|:-:|:-:|
 |         Accuracy         | 0.724  |  0.708 |  0.709 | 0.701  |
 | Quadratic weighted Kappa |  0.583 |  0.570 |  0.575 | 0.567  |
+
+|          Modèle          | LDA (32) avec partie noire | LDA (32) sans partie noire | LDA (64) avec partie noire | LDA (64) sans partie noire | LDA (128) sans partie noire
+|:------------------------:|:-:|:-:|:-:|:-:|:-:|
+|         Accuracy         | 0.686  |  0.656 |  0.492 | 0.502  | 0.654  | 
+| Quadratic weighted Kappa |  0.617 |  0.598 |  0.378 | 0.463  | 0.672  |
+
+|          Modèle          | QDA (32) avec partie noire | QDA (64) avec partie noire | SVM (32) avec partie noire | SVM(64) avec partie noire |
+|:------------------------:|:-:|:-:|:-:|:-:|
+|         Accuracy         | 0.532  |  0.086 |  0.724 | 0.502  |
+| Quadratic weighted Kappa |  0.110 |  -0.019 |  0.619 | 0.463  |
