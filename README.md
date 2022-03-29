@@ -67,7 +67,7 @@ Délimitation des avancées concrètes qui pourront être mises en oeuvres pour 
 Modèles de machine learning à tester :
 - k-nearest neighbors (KNN)
 - random forest
-- support vector machine (SVM)
+- support vector machines (SVM)
 - linear discriminant analysis (LDA) et quadratic discriminant analysis (QDA)
 - naive bayes
 
