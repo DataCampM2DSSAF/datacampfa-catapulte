@@ -104,5 +104,5 @@ Modèles de machine learning à tester :
 
 ### Vendredi 15 avril
 - énumération des travaux à effectuer avant la soutenance
-- rédaction du rapport du rapport
+- rédaction du rapport
 - mise au propre du notebook Kaggle et correction des éventuelles erreurs
