@@ -101,3 +101,8 @@ Modèles de machine learning à tester :
 - implémentation et entraînement d'un MLP
 - implémentation d'un réseau CNN
 - écriture du rapport
+
+### Vendredi 15 avril
+- énumération des travaux à effectuer avant la soutenance
+- écriture du rapport
+- mise au propre du notebook Kaggle et correction des éventuelles erreurs
